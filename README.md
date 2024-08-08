@@ -3,7 +3,7 @@
 ## Description
 46,498 Images - Vehicle Damage Images Collection Data. The dataset diversity includes multiple vehicle types, multiple outdoor scenes, multiple types of vehicle damage, multiple collecting angles, different photographic distances, and different resolutions. The types of vehicle damage include bump, scratch, paint loss and other vehicle damage. The locations of vehicle damage include the front hood, left and right headlights, door, body and trunk of the vehicle. This dataset can be used for tasks such as automatic vehicle damage detection.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/256?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets?source=Github
 
 
 # Specifications
